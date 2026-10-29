@@ -1,0 +1,10 @@
+{
+  "name": "suhaag-mandir",
+  "version": "1.0.0",
+  "description": "Suhaag Mandir Cake Shop & Shringar Web Application",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start",
+    "build:frontend": "cd frontend && npm run build"
+  }
+}
